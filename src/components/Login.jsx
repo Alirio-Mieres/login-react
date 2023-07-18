@@ -20,7 +20,7 @@ const Login = () => {
         return;
     }
 
-    navigate("/react/main");
+    navigate("/login-react/main");
   };
 
   return (
